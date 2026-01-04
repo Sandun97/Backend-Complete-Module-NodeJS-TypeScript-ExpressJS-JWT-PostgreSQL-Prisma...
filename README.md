@@ -4,11 +4,7 @@
 
 <br />
 
-<a href="https://youtu.be/RZ6Rk_g2GLY" target="_blank">
-
-   <img width="1280" height="720" alt="Complete Backend Course | NodeJS, ExpressJS, JWT, Prisma, PostgreSQL" src="./banner.png" />
-
-</a>
+<img width="1280" height="720" alt="Complete Backend Course | NodeJS, ExpressJS, JWT, Prisma, PostgreSQL" src="./banner.png" />
 
 <br />
 
