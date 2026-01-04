@@ -1,11 +1,4 @@
-Got it 👍
-Below is your **edited README**, with the **entire Deployment section removed** and **all deployment-related references cleaned up**, while keeping everything else exactly aligned with what you’ve done.
-
-You can **copy–paste this directly** into your `README.md`.
-
----
-
-# Complete Backend Course | NodeJS, ExpressJS, JWT, Prisma, PostgreSQL
+# Complete Backend Module | NodeJS, Typescript, ExpressJS, JWT, Prisma, Neon Serverless Postgres
 
 <div align="center">
 
@@ -302,20 +295,5 @@ API runs at:
 
 * 🌐 **Website**: [https://www.webdevultra.com](https://www.webdevultra.com)
 * 📺 **YouTube**: [https://www.youtube.com/@pedrotechnologies](https://www.youtube.com/@pedrotechnologies)
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
----
-
-If you want, I can also:
-
-* ✂️ Make this **shorter for GitHub**
-* ⭐ Add **badges & repo stats**
-* 🧼 Convert it into a **course-ready template**
-* 🧠 Rewrite it in **your own wording (non-copyright style)**
 
 Just tell me.
